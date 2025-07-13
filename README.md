@@ -1,2 +1,2 @@
 # Weather-Detector-
-Real time weather detector using React
+Real time weather detector
